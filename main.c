@@ -2,12 +2,17 @@
 
 double soma(double x, double y){
 
-    return 0;
+    return x+y;
+
 }
 
 double sub(double x, double y){
 
-    return 0;
+    return x-y;
+}
+
+double mul(double x, double y){
+    
 }
 
 int main(){
